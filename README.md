@@ -55,7 +55,9 @@ Funcionalidades
 4.	Eliminar un producto
 5.	Actualizar el stock de productos
 6.	Recibir el precio de un producto
+
 Endpoints
+
 Puerto 8081
 1.	Listar todos los productos
   URL: /productos
@@ -82,7 +84,9 @@ Este interaccionará con el servicio de empresa y el servicio de producto para o
 Funcionalidades
 1. Realizar un pedido. Al realizar un pedido se actualiza el stock en el microservicio productos y se recoge el valor de cada producto para averiguar el total.
 2. Listar pedidos por empresa. Como el microservicio de pedidos no dispone de los datos de las empresas, se crea una clase DAO para conseguir el id de la empresa.
+
 Endpoints
+
 •	Puerto 8082
 1.	Realizar un pedido
   URL: /pedidos
