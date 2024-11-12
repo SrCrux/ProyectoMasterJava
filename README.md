@@ -87,7 +87,7 @@ Funcionalidades
 
 Endpoints
 
-•	Puerto 8082
+Puerto 8082
 1.	Realizar un pedido
   URL: /pedidos
   Método: POST
