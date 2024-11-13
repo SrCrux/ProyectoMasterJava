@@ -12,12 +12,6 @@ Tecnologías Utilizadas
 
 •	Spring Boot: Infraestructura para microservicios eficiente.
 •	Swagger: Documentación y visualización de API RESTful.
-•	JUnit: Marco para pruebas unitarias en Java.
-
-Inicio Rápido
-
-1.	Clonar el repositorio: git clone https://github.com/SrCrux/ProyectoMasterjava.git
-2.	Acceder al directorio del proyecto: cd xxx
 
 Entidades
 
