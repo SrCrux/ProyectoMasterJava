@@ -87,7 +87,7 @@ Este interaccionará con el servicio de empresa y el servicio de producto para o
 Funcionalidades
 
 1. Realizar un pedido. Al realizar un pedido se actualiza el stock en el microservicio productos y se recoge el valor de cada producto para averiguar el total.
-2. Listar pedidos por empresa. Como el microservicio de pedidos no dispone de los datos de las empresas, se crea una clase DAO para conseguir el id de la empresa.
+2. Listar pedidos por empresa. Como el microservicio de pedidos no dispone de los datos de las empresas, se crea una clase DTO para conseguir el id de la empresa.
 
 Endpoints
 
